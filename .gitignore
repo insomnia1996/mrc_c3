@@ -1,0 +1,5 @@
+*.png
+/mrc_data/
+/NeZha_Chinese_PyTorch-main/
+/__pycache__/
+/check_points/
